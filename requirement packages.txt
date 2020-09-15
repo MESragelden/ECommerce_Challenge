@@ -1,0 +1,7 @@
+1. Install MongoDB
+2. Install Djanog
+3. install Packages
+	pip install djangorestframework
+	pip install djongo
+	pip install django-cors-headers
+
