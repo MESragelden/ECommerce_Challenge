@@ -32,7 +32,7 @@ http://127.0.0.1:8000/pods
 
 ```
 	http://127.0.0.1:8000/machines?name=CM001 
-    http://127.0.0.1:8000/machines?product_type=base
+   	http://127.0.0.1:8000/machines?product_type=base
 	http://127.0.0.1:8000/machines?water_line_compatible=False
 	http://127.0.0.1:8000/machines?size=small
 ```
